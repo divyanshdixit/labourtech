@@ -1,2 +1,0 @@
-# labourtech
-Laravel project
